@@ -1,11 +1,11 @@
 import React from 'react';
 import './LandingPage.css';
-import { TextField, Button, Grid } from '@material-ui/core';
+import { TextField, Button, Grid, Link } from '@material-ui/core';
 
 function LandingPage() {
   return (
     <div className="landing-page">
-      <Grid container component="main">
+      <Grid container component="main" spacing={8}>
         <Grid item xs={12} sm={4} md={5} className="left-form">
           {/* <svg className="bird-eye-logo">Logo here</svg> */}
           <p>LOGO</p>
@@ -39,10 +39,10 @@ function LandingPage() {
             >
               Create Account
             </Button>
-            {/* <Link href="#" variant="body2">
-              Forgot password?
-            </Link> */}
           </form>
+          <Link href="#" variant="body2">
+              Forgot password?
+          </Link>
         </Grid>
         <Grid item xs={false} sm={8} md={7} className="blue-swoosh" />
       </Grid>
