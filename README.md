@@ -7,7 +7,7 @@ An exercise in executing on some wireframes.
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
 
-## I want to see this in action!
+## I want to see this in action
 
 This is not deployed anywhere, so to check out what I did, run the
 following:
@@ -15,7 +15,11 @@ following:
 ### `npm start`
 
 Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000/landingpage](http://localhost:3000/landingpage)
+to view it in the browser.
+
+The Task View (not very complete at this point) can be found
+[here](http://localhost:3000/taskview)
 
 ### `npm test`
 
