@@ -3,13 +3,18 @@ html, body {
 }
 
 .left-form {
+  position: absolute;
   width: 40%;
+  top: 0;
+  left: 0;
   height: 100vh;
-  float: left;
 }
 
 .blue-swoosh {
-  margin-left: 40%;
+  position: absolute;
+  width: 60%;
+  top: 0;
+  right: 0;  
   height: 100vh;
   background-color:rgb(7,21,132);
 }
