@@ -40,6 +40,7 @@ some tests.
 
 ### Landing Page
 
+* Form could be made a component
 * Purple Logo Thing
   * Replace Placeholder Text with svg
 * 3/5ths Blue Div with Swoopy Design
