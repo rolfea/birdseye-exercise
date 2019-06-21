@@ -1,0 +1,15 @@
+html, body {
+  height: 100%
+}
+
+.left-form {
+  width: 40%;
+  height: 100vh;
+  float: left;
+}
+
+.blue-swoosh {
+  margin-left: 40%;
+  height: 100vh;
+  background-color:rgb(7,21,132);
+}
