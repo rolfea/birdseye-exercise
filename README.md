@@ -34,17 +34,31 @@ some tests.
 
 ## Features
 
+### App Functionality
+
+* Using router to allow a click between pages
+
 ### Landing Page
 
+* Form could be made a component
 * Purple Logo Thing
+  * Replace Placeholder Text with svg
 * 3/5ths Blue Div with Swoopy Design
-* Welcome Header
+  * find some CSS effect to approximate the "swoosh" effect
+* Match Font
+* ~~Welcome Header~~
 * Login Form
-  * Email Address Input
-  * Password Input
-  * Sign In Button
-  * Create an Account button
-  * Forgot Password Link
+  * Uniform margin on both sides of left-form element
+  * match styling on buttons (black and white)
+  * Email/Password labels above inputs
+  * match spacing between elements (buttons + forgot password)
+  * match styling password link
+  * responsive approach for cell-phone sized media
+  * ~~Email Address Input~~
+  * ~~Password Input~~
+  * ~~Sign In Button~~
+  * ~~Create an Account button~~
+  * ~~Forgot Password Link~~
 
 ### Task View Page
 

@@ -1,0 +1,14 @@
+.left-form {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form, button {
+  width: 100%;
+}
+
+.blue-swoosh {
+  background-color:rgb(7,21,132);
+}
